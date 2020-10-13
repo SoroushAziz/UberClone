@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ابر</string>
+    <string name="title_activity_passenger">نقشه</string>
+    <string name="hiii" translatable="false">LOL</string>
+    <string name="todays_news" translatable="false">Today the new is :</string>
+    <string name="logout">خارج شدن از اکانت</string>
+    <string name="view_passenger_requests_here">درخواست هارا ببینید</string>
+    <string name="update_the_list">Update the list</string>
+    <string name="please_enter_your_username">اسم شما؟</string>
+    <string name="please_enter_your_password">رمز؟</string>
+    <string name="passenger">مسافر</string>
+    <string name="driver">راننده</string>
+    <string name="sign_up">اکانت را درست کن</string>
+    <string name="don_t_want_to_sign_up_or_login">نمی خواهید اکانت را درست بکنید یا وارد شوید؟</string>
+    <string name="are_you_a_driver_or_a_passenger">شما مسافر هستید یا راننده؟</string>
+    <string name="one_time_login">یک بار وارد شدن</string>
+    <string name="request_a_car">ماشین درخواست کنید</string>
+    <string name="logout_from_app">از برنامه خازج شوید</string>
+    <string name="cancel_uber">درخواست را کنصل کن</string>
+    <string name="requset_a_new_car">درخواست ماشین جدید!</string>
+</resources>

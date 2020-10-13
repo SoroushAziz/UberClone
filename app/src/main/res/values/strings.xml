@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Uber Clone</string>
+    <string name="title_activity_passenger">Map</string>
+    <string name="hiii" translatable="false">LOL</string>
+    <string name="todays_news" translatable="false">Today the new is :</string>
+    <string name="logout">LogOut</string>
+    <string name="view_passenger_requests_here">View Passenger Requests here</string>
+    <string name="update_the_list">Get Near by Requests</string>
+    <string name="please_enter_your_username">Please enter your username...</string>
+    <string name="please_enter_your_password">Please enter your password</string>
+    <string name="passenger">Passenger</string>
+    <string name="driver">Driver</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="don_t_want_to_sign_up_or_login">Don\'t want to sign up or Login?</string>
+    <string name="are_you_a_driver_or_a_passenger">Are you a Driver or a Passenger?</string>
+    <string name="one_time_login">One time login</string>
+    <string name="request_a_car">Request a Car</string>
+    <string name="logout_from_app">LogOut from app</string>
+    <string name="cancel_uber">Cancel Your Uber Order</string>
+    <string name="requset_a_new_car">Requset a new Uber</string>
+    <string name="title_activity_view_location_map">Map</string>
+
+</resources>
